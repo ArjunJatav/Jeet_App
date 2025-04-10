@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.fantasyapp-merged_res-52:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.fantasyapp-main-53:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_send_balance.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_send_balance.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_add_balance.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_add_balance.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_wrong.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_wrong.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_splash_screen.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_splash_screen.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_login_logo.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_login_logo.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_error.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_error.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_cricketbackground.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_cricketbackground.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_no_data_found.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_no_data_found.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.fantasyapp-main-53:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_success.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_success.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_contact_us.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_contact_us.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_transition_history.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_transition_history.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_validationfailed.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_validationfailed.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.fantasyapp-main-53:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.fantasyapp-main-53:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.fantasyapp-main-53:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_refer_and_earn.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_refer_and_earn.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_logout.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_logout.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_match_backgraund.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_match_backgraund.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.fantasyapp-main-53:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_terms_and_condition.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_terms_and_condition.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_withdraw_request.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_withdraw_request.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_pending.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_pending.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.fantasyapp-merged_res-52:/drawable-mdpi_src_assets_gift_image.png.flat",
+        "source": "com.fantasyapp-res-46:/drawable-mdpi/src_assets_gift_image.png"
+    }
+]
